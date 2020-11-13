@@ -1,0 +1,25 @@
+5
+S 8
+E -2
+SEW -15
+SE 4
+S 25
+S -26
+NEW 19
+NS 7
+SEW -56
+S 11
+E 25
+N -86
+SEW 11
+NE 26
+S -78
+NS -11
+NSW -76
+SW 33
+NSW 4
+SW -40
+E 8
+E 11
+E 36
+E -2
