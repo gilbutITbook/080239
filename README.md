@@ -10,7 +10,7 @@
 
 ### boost 라이브러리
 •	Windows: https://www.boost.org/doc/libs/1_71_0/more/getting_started/windows.html </br>
-•	Linux/macOS: https://www.boost.org/doc/libs/1_71_0/more/getting_started/unixvariants.html </br>
+•	Linux/macOS: https://www.boost.org/doc/libs/1_71_0/more/getting_started/unix-variants.html </br>
 
 
 ### OpenSSL 라이브러리
